@@ -33,6 +33,7 @@ Acreditamos no poder da comunidade open source e toda contribuição é muito be
 - Pull requests mostraram ao mundo corporativo que você se importa com open source.
 - Você tem chance de ser empregado por empresas parceiras como NODRA, Kindred e Engide.
 - Você fará parte do **Kalify Members** e estará destacado em nosso discord, além de receber as novidades em primeira mão.
+- Você fará parte da equipe oficial no GitHub dando destaque ao seu perfil e interesse de outros membros e recursos humanos.
 
 ## 🌟 Junte-se à revolução
 
