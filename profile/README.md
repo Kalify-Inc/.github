@@ -1,6 +1,7 @@
 # 🌑 Kalify Inc.
 
-Bem-vindos ao repositório oficial da **Kalify Inc**! Este é o seu ponto de partida para explorar, contribuir e aprender com nossos projetos open source.
+Bem-vindos ao repositório oficial da **Kalify Inc**! 
+Este é o seu ponto de partida para explorar, contribuir e aprender com nossos projetos open source.
 
 ## 💡 O que é a Kalify Inc?
 
