@@ -35,11 +35,11 @@ Acreditamos no poder da comunidade open source e toda contribuição é muito be
 - Você fará parte do **Kalify Members** e estará destacado em nosso discord, além de receber as novidades em primeira mão.
 - Você fará parte da equipe oficial no GitHub dando destaque ao seu perfil e interesse de outros membros e recursos humanos.
 
-## Os projetos são da Kalify?
+## 📁 Os projetos são da Kalify?
 Sim, os projetos estão alocados no perfil do Yagasaki7K, fundador da Kalify Inc, por conta de hosting e por ser um projeto gratuito, não temos condições
 de manter uma equipe na Vercel (que seria pago e em dólares), mas não se preocupe, informe ele no Discord sobre seu pull request e ele irá atender como necessário.
 
-## Eu tenho uma ideia de projeto?
+## 💡 Eu tenho uma ideia de projeto?
 Você tem uma ideia? Bacana! 
 O que recomendamos é que essa ideia seja apresentada ao Yagasaki7K lá no Discord, após avaliada, e se fazer sentido aos padrões da Kalify Inc, você poderá criar no perfil o repositório normalmente, e a Kalify Inc apenas irá dar um fork e ajudará na contribuição.
 
