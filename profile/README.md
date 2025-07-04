@@ -15,7 +15,7 @@ Acreditamos no poder da comunidade open source e toda contribuição é muito be
 ### 🚀 Primeiros passos
 
 1. **Explore os repositórios** disponíveis
-2. **Identifique issues** que despertam seu interesse disponível no projeto principal
+2. **Identifique issues** que despertam seu interesse disponível no [Projects](https://github.com/orgs/Kalify-Inc/projects/1)
 3. **Comece a trabalhar** na solução
 4. **Sugira melhorias ou soluções** através de novas issues
 
